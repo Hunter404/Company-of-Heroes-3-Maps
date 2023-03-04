@@ -1,0 +1,305 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		320,
+		320,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = 156.61920,
+			y = -81.19359,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 156.61917,
+			y = -23.64446,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = 156.61920,
+			y = -117.19168,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = -156.21094,
+			y = 116.56575,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -156.18114,
+			y = 14.79894,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -156.21094,
+			y = 63.86081,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -3.73238,
+			y = -120.83947,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -0.60948,
+			y = -1.93056,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = 1.57725,
+			y = 134.86902,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = -30.20681,
+			y = 134.51387,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_high",
+			owner_id = 0,
+			x = 25.95138,
+			y = -140.39932,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = 28.35695,
+			y = 96.66315,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = -30.52822,
+			y = -89.78937,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = 34.61326,
+			y = 21.24246,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = -15.60884,
+			y = -39.46175,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = -39.80626,
+			y = 16.03509,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 31.82484,
+			y = -21.77821,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -134.53903,
+			y = -130.78624,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = -127.74850,
+			y = -66.72382,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 129.38420,
+			y = 64.64919,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 110.23031,
+			y = 130.65170,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = 144.48418,
+			y = 44.75922,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = -149.02504,
+			y = -51.28785,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = -82.09724,
+			y = 61.22910,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = -88.85247,
+			y = -42.09164,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 80.27949,
+			y = -64.16068,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_low",
+			owner_id = 0,
+			x = 84.23646,
+			y = 42.05125,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "(6) Achelous River",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+

@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Vire River Valley/-->
+	<DataObject Name="Vire River Valley" Type="Mod" Id="4155762887117832274" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">8199628732553724749</DataValue>
+			<!--Vire River Valley/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="8199628732553724749" OwnerId="4155762887117832274">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="4031251588"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1667594215"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2401148844"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1241454251"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">694713723458980616</DataValue>
+			<!--Vire River Valley/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="694713723458980616" OwnerId="4155762887117832274">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="4031251588"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1667594215"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2401148844"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1241454251"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+

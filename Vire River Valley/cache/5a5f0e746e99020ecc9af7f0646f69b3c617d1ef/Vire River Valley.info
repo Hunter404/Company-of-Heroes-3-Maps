@@ -1,0 +1,346 @@
+HeaderInfo =  
+{
+	ScenarioDescription = "Nestled in the large valley, a small rural community has been torn by war. The river that runs through this community was once a place where children and adults alike would fish or wet their feet on a hot summer day, but now it is nothing more than a natural barrier that has led to stalemate after stalemate between the Allied and Axis forces stationed in the area. It has been told that the commander who takes this valley once and for all is to receive commendations of the highest order",
+	mapsize =  
+	{
+		320,
+		640,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = 7.86874,
+			y = -84.50071,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 58.60136,
+			y = -28.21434,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = -11.71483,
+			y = -172.48784,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = -52.22051,
+			y = -118.29028,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 118.55769,
+			y = -52.20277,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -30.69343,
+			y = 44.41975,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = -75.75373,
+			y = 86.56838,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = 22.95070,
+			y = 85.00661,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_high",
+			owner_id = 0,
+			x = 34.91004,
+			y = 140.89789,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_low",
+			owner_id = 0,
+			x = 56.63540,
+			y = 115.99889,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -4.14918,
+			y = -89.97276,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = 96.55468,
+			y = 0.44621,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -33.67088,
+			y = 102.44335,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -96.40633,
+			y = 9.24722,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = -49.86880,
+			y = 127.75043,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = 119.35930,
+			y = 133.97035,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = -109.74668,
+			y = 12.57489,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = -74.82436,
+			y = -83.07872,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = -102.49611,
+			y = -143.51549,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = 99.37715,
+			y = -148.43556,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = 84.58893,
+			y = 94.39857,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = 5.29900,
+			y = 1.49905,
+		},
+		 
+		{
+			ebp_name = "territory_strategic_point",
+			owner_id = 0,
+			x = 108.62061,
+			y = -12.53590,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = -82.45388,
+			y = -247.50768,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = -29.84005,
+			y = -249.03922,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 31.45330,
+			y = -249.17982,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1007,
+			x = 88.19997,
+			y = -248.24106,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -103.05592,
+			y = 237.76834,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -56.84374,
+			y = 237.02325,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = -14.24404,
+			y = 236.29486,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1006,
+			x = 102.48913,
+			y = 241.26985,
+		},
+		 
+		{
+			ebp_name = "territory_victory_point",
+			owner_id = 0,
+			x = -4.47489,
+			y = -5.76120,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "(8) Vire River Valley",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	version = 3001,
+	visible_in_lobby = true,
+	win_conditions =  
+	{
+		"00000000000000000000000000000000:3318379781",
+		"00000000000000000000000000000000:861599853",
+	},
+	worldbp = "default",
+}
+

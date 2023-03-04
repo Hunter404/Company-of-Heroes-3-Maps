@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Hotchwald gap/-->
+	<DataObject Name="Hotchwald gap" Type="Mod" Id="4831734075246182958" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">13307645849130193189</DataValue>
+			<!--Hotchwald gap/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="13307645849130193189" OwnerId="4831734075246182958">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="0"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">17877475109531746359</DataValue>
+			<!--Hotchwald gap/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="17877475109531746359" OwnerId="4831734075246182958">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="199173017"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="943078227"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="175489415"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1088158963"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+

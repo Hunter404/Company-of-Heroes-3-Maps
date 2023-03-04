@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--The Scheldt/-->
+	<DataObject Name="The Scheldt" Type="Mod" Id="1627743533894628496" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">5762294123086793061</DataValue>
+			<!--The Scheldt/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="5762294123086793061" OwnerId="1627743533894628496">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="0"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="0"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">10068133045179037713</DataValue>
+			<!--The Scheldt/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="10068133045179037713" OwnerId="1627743533894628496">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="2985954466"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1477531604"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2660770632"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1313319534"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+
