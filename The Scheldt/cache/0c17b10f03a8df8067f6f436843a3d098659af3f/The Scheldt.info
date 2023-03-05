@@ -1,0 +1,221 @@
+HeaderInfo =  
+{
+	mapsize =  
+	{
+		320,
+		320,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -104.10798,
+			y = 82.15151,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -6.14284,
+			y = 108.14075,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = -55.83653,
+			y = 18.33808,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 38.60095,
+			y = -27.78945,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 12.06578,
+			y = 72.34889,
+		},
+		 
+		{
+			ebp_name = "territory_fuel_point_medium",
+			owner_id = 0,
+			x = 59.32514,
+			y = 74.54732,
+		},
+		 
+		{
+			ebp_name = "territory_munitions_point_medium",
+			owner_id = 0,
+			x = 39.15177,
+			y = 133.42546,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -159.50000,
+			y = -36.67480,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -120.88795,
+			y = -159.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = 24.73467,
+			y = -144.29695,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1006,
+			x = -63.31348,
+			y = -159.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = 150.92258,
+			y = -2.04320,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = 133.73636,
+			y = 159.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 159.50000,
+			y = 71.19979,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1007,
+			x = -129.40497,
+			y = 153.61330,
+		},
+	},
+	scenario_type = 1,
+	scenarioname = "(6) The Scheldt",
+	slots =  
+	{
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 0,
+		},
+		 
+		{
+			flags = 4294967231,
+			status = 1,
+			team = 1,
+		},
+	},
+	version = 3001,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+
