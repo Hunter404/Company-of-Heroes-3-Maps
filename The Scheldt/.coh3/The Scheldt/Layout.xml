@@ -8,12 +8,12 @@
     </LayoutAnchorablePaneGroup>
     <LayoutPanel Orientation="Vertical">
       <LayoutDocumentPaneGroup Orientation="Horizontal">
-        <LayoutDocumentPane DockWidth="0.367127496159754*">
-          <LayoutDocument Title="The Scheldt.scenario" IsSelected="True" ContentId="FileName|Scenario|assets\scenarios\multiplayer\The Scheldt\The Scheldt.scenario" ToolTip="C:\Users\hunte\OneDrive\Dokument\The Scheldt\assets\scenarios\multiplayer\The Scheldt\The Scheldt.scenario" LastActivationTimeStamp="03/01/2023 19:39:00" />
+        <LayoutDocumentPane DockWidth="0.41321044546851*">
+          <LayoutDocument Title="The Scheldt.scenario" IsSelected="True" ContentId="FileName|Scenario|assets\scenarios\multiplayer\The Scheldt\The Scheldt.scenario" ToolTip="C:\Users\hunte\OneDrive\Dokument\Company-of-Heroes-3-Maps\The Scheldt\assets\scenarios\multiplayer\The Scheldt\The Scheldt.scenario" LastActivationTimeStamp="03/04/2023 19:23:15" />
         </LayoutDocumentPane>
-        <LayoutDocumentPane DockWidth="1.63287250384025*">
-          <LayoutDocument Title="Render" IsSelected="True" IsLastFocusedDocument="True" ContentId="EssenceEditor.Render" LastActivationTimeStamp="03/01/2023 19:39:04" />
-          <LayoutDocument Title="_default.burnproj" ContentId="FileName|BurnProject|assets\_default.burnproj" ToolTip="C:\Users\hunte\OneDrive\Dokument\The Scheldt\assets\_default.burnproj" LastActivationTimeStamp="03/01/2023 18:00:58" />
+        <LayoutDocumentPane DockWidth="1.58678955453149*">
+          <LayoutDocument Title="Render" IsSelected="True" IsLastFocusedDocument="True" ContentId="EssenceEditor.Render" LastActivationTimeStamp="03/04/2023 23:44:00" />
+          <LayoutDocument Title="_default.burnproj" ContentId="FileName|BurnProject|assets\_default.burnproj" ToolTip="C:\Users\hunte\OneDrive\Dokument\Company-of-Heroes-3-Maps\The Scheldt\assets\_default.burnproj" LastActivationTimeStamp="03/01/2023 18:00:58" />
           <LayoutDocument Title="mod.rdo" ContentId="Reflect|Essence.Editor.ReflectEditor.Controls.DefaultReflectControlActivator|0x1696E81EB33A7490" LastActivationTimeStamp="03/01/2023 19:39:01" />
         </LayoutDocumentPane>
       </LayoutDocumentPaneGroup>
@@ -25,7 +25,7 @@
     </LayoutPanel>
     <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="300" DockHeight="200">
       <LayoutAnchorablePane Id="d4ef32c4-331c-4c13-bbd9-cea91f04838c" DockWidth="300" FloatingWidth="300" FloatingHeight="800" FloatingLeft="200" FloatingTop="200">
-        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Properties" IsSelected="True" ContentId="EssenceEditor.Properties" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/01/2023 17:57:27" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Properties" IsSelected="True" ContentId="EssenceEditor.Properties" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/04/2023 19:06:08" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
       </LayoutAnchorablePane>
       <LayoutAnchorablePane Id="78c06263-eb86-40c1-8abf-6d89a3781df0" FloatingWidth="300" FloatingHeight="250" FloatingLeft="200" FloatingTop="200" />
       <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="0.25*" FloatingWidth="300" FloatingHeight="200" FloatingLeft="200" FloatingTop="200">
@@ -41,7 +41,7 @@
   <BottomSide />
   <FloatingWindows />
   <Hidden>
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Transformation" IsSelected="True" ContentId="ScenarioEditor.Transformation" FloatingLeft="200" FloatingTop="200" FloatingWidth="250" FloatingHeight="300" LastActivationTimeStamp="03/01/2023 19:39:00" PreviousContainerId="78c06263-eb86-40c1-8abf-6d89a3781df0" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Painter" IsSelected="True" ContentId="ScenarioEditor.Painter" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/01/2023 19:39:00" PreviousContainerId="d4ef32c4-331c-4c13-bbd9-cea91f04838c" PreviousContainerIndex="1" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Painter" ContentId="ScenarioEditor.Painter" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/04/2023 18:53:04" PreviousContainerId="d4ef32c4-331c-4c13-bbd9-cea91f04838c" PreviousContainerIndex="1" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Transformation" ContentId="ScenarioEditor.Transformation" FloatingLeft="200" FloatingTop="200" FloatingWidth="250" FloatingHeight="300" LastActivationTimeStamp="03/04/2023 19:19:44" PreviousContainerId="78c06263-eb86-40c1-8abf-6d89a3781df0" PreviousContainerIndex="0" />
   </Hidden>
 </LayoutRoot>

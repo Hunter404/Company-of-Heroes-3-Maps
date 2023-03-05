@@ -5,12 +5,12 @@
       <LayoutAnchorablePane Id="835e3758-0427-48eb-b43e-0e84787e8e35" DockHeight="200" FloatingWidth="300" FloatingHeight="800" FloatingLeft="200" FloatingTop="200" />
     </LayoutAnchorablePaneGroup>
     <LayoutPanel Orientation="Vertical">
-      <LayoutDocumentPaneGroup Orientation="Horizontal" DockHeight="1.05270863836018*">
+      <LayoutDocumentPaneGroup Orientation="Horizontal">
         <LayoutDocumentPane DockWidth="0.448157498449818*">
-          <LayoutDocument Title="Vire River Valley.scenario" IsSelected="True" ContentId="FileName|Scenario|assets\scenarios\multiplayer\Vire River Valley\Vire River Valley.scenario" ToolTip="C:\Users\hunte\OneDrive\Dokument\Company-of-Heroes-3-Maps\Vire River Valley\assets\scenarios\multiplayer\Vire River Valley\Vire River Valley.scenario" LastActivationTimeStamp="03/04/2023 16:21:50" />
+          <LayoutDocument Title="Vire River Valley.scenario" IsSelected="True" ContentId="FileName|Scenario|assets\scenarios\multiplayer\Vire River Valley\Vire River Valley.scenario" ToolTip="C:\Users\hunte\OneDrive\Dokument\Company-of-Heroes-3-Maps\Vire River Valley\assets\scenarios\multiplayer\Vire River Valley\Vire River Valley.scenario" LastActivationTimeStamp="03/05/2023 01:20:53" />
         </LayoutDocumentPane>
         <LayoutDocumentPane Id="e06cf1d4-3c46-436b-9959-0359da93e15f" DockWidth="1.55198506289308*">
-          <LayoutDocument Title="Render" IsSelected="True" IsLastFocusedDocument="True" ContentId="EssenceEditor.Render" LastActivationTimeStamp="03/04/2023 16:21:52" />
+          <LayoutDocument Title="Render" IsSelected="True" IsLastFocusedDocument="True" ContentId="EssenceEditor.Render" LastActivationTimeStamp="03/05/2023 01:21:36" />
         </LayoutDocumentPane>
       </LayoutDocumentPaneGroup>
       <LayoutAnchorablePane Id="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" Name="anchorablesPane" DockHeight="265">
@@ -20,7 +20,8 @@
     </LayoutPanel>
     <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="330" DockHeight="200">
       <LayoutAnchorablePane Id="ae95bff2-e8cd-4698-8703-a1b46b702c36" DockWidth="330" FloatingWidth="300" FloatingHeight="800" FloatingLeft="200" FloatingTop="200">
-        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Properties" IsSelected="True" ContentId="EssenceEditor.Properties" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/04/2023 16:21:51" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Properties" ContentId="EssenceEditor.Properties" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/05/2023 01:14:53" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Painter" IsSelected="True" ContentId="ScenarioEditor.Painter" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/05/2023 01:21:33" />
       </LayoutAnchorablePane>
       <LayoutAnchorablePane Id="78c06263-eb86-40c1-8abf-6d89a3781df0" DockHeight="0.571428571428571*" FloatingWidth="300" FloatingHeight="250" FloatingLeft="200" FloatingTop="200" />
       <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="0.25*" FloatingWidth="300" FloatingHeight="200" FloatingLeft="200" FloatingTop="200">
@@ -36,11 +37,10 @@
   <BottomSide />
   <FloatingWindows />
   <Hidden>
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="FoW" IsSelected="True" ContentId="ScenarioEditor.FoW" LastActivationTimeStamp="03/04/2023 02:00:17" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="3" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" IsSelected="True" ContentId="Output" LastActivationTimeStamp="03/04/2023 02:00:17" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Object Browser" IsSelected="True" ContentId="ScenarioEditor.ObjectBrowser" LastActivationTimeStamp="03/04/2023 02:00:17" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Asset Explorer" IsSelected="True" ContentId="EssenceEditor.AssetExplorer" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/04/2023 02:00:17" PreviousContainerId="835e3758-0427-48eb-b43e-0e84787e8e35" PreviousContainerIndex="0" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Painter" ContentId="ScenarioEditor.Painter" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/04/2023 16:18:45" PreviousContainerId="ae95bff2-e8cd-4698-8703-a1b46b702c36" PreviousContainerIndex="1" />
-    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Transformation" ContentId="ScenarioEditor.Transformation" FloatingLeft="200" FloatingTop="200" FloatingWidth="250" FloatingHeight="300" LastActivationTimeStamp="03/04/2023 16:20:42" PreviousContainerId="78c06263-eb86-40c1-8abf-6d89a3781df0" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="FoW" IsSelected="True" ContentId="ScenarioEditor.FoW" LastActivationTimeStamp="03/05/2023 00:42:57" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="3" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" IsSelected="True" ContentId="Output" LastActivationTimeStamp="03/05/2023 00:42:57" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Object Browser" IsSelected="True" ContentId="ScenarioEditor.ObjectBrowser" LastActivationTimeStamp="03/05/2023 00:42:57" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Asset Explorer" IsSelected="True" ContentId="EssenceEditor.AssetExplorer" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="03/05/2023 00:42:57" PreviousContainerId="835e3758-0427-48eb-b43e-0e84787e8e35" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Transformation" ContentId="ScenarioEditor.Transformation" FloatingLeft="200" FloatingTop="200" FloatingWidth="250" FloatingHeight="300" LastActivationTimeStamp="03/05/2023 01:18:28" PreviousContainerId="78c06263-eb86-40c1-8abf-6d89a3781df0" PreviousContainerIndex="0" />
   </Hidden>
 </LayoutRoot>

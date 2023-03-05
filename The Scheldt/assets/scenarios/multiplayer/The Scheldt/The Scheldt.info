@@ -9,62 +9,6 @@ HeaderInfo =
 	{
 		 
 		{
-			ebp_name = "starting_position",
-			owner_id = 1000,
-			x = -157.84451,
-			y = -36.72784,
-		},
-		 
-		{
-			ebp_name = "starting_position",
-			owner_id = 1002,
-			x = -120.88795,
-			y = -156.00807,
-		},
-		 
-		{
-			ebp_name = "starting_position",
-			owner_id = 1004,
-			x = 24.73467,
-			y = -144.29695,
-		},
-		 
-		{
-			ebp_name = "starting_position",
-			owner_id = 1006,
-			x = -63.31348,
-			y = -159.50000,
-		},
-		 
-		{
-			ebp_name = "starting_position",
-			owner_id = 1001,
-			x = 150.45078,
-			y = -1.57140,
-		},
-		 
-		{
-			ebp_name = "starting_position",
-			owner_id = 1003,
-			x = 133.73636,
-			y = 159.50000,
-		},
-		 
-		{
-			ebp_name = "starting_position",
-			owner_id = 1005,
-			x = 159.50000,
-			y = 71.19979,
-		},
-		 
-		{
-			ebp_name = "starting_position",
-			owner_id = 1007,
-			x = -129.40497,
-			y = 153.61330,
-		},
-		 
-		{
 			ebp_name = "territory_munitions_point_medium",
 			owner_id = 0,
 			x = -104.10798,
@@ -111,6 +55,62 @@ HeaderInfo =
 			owner_id = 0,
 			x = 39.15177,
 			y = 133.42546,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1000,
+			x = -159.50000,
+			y = -36.67480,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1002,
+			x = -120.88795,
+			y = -159.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1004,
+			x = 24.73467,
+			y = -144.29695,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1006,
+			x = -63.31348,
+			y = -159.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1001,
+			x = 150.92258,
+			y = -2.04320,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1003,
+			x = 133.73636,
+			y = 159.50000,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1005,
+			x = 159.50000,
+			y = 71.19979,
+		},
+		 
+		{
+			ebp_name = "starting_position",
+			owner_id = 1007,
+			x = -129.40497,
+			y = 153.61330,
 		},
 	},
 	scenario_type = 1,
